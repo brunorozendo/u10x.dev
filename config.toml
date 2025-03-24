@@ -17,7 +17,7 @@ disableKinds = ["taxonomy", "term"]
 
 [params.author]
 name = "u10x.dev"
-headline = "Where you became an 10x developer"
+headline = "Where you became a 10x developer"
 #image = "/images/posts/calcular-pi.jpg"
 links = [
     #{ link = { href = "https://github.com/jpanther/lynx/blob/stable/README.md", text = "View the readme", icon = "github" } },
