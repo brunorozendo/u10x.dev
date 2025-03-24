@@ -31,6 +31,7 @@ links = [
     { instagram = "https://www.instagram.com/u10xdev" },
     { threads = "https://www.threads.net/@u10xdev" },
     { bluesky =  "https://bsky.app/profile/u10xdev.bsky.social" },
+    { twitch =  "https://www.twitch.tv/u10xdev" },
     #{ font-awesome = { href = "https://fontawesome.com/", text = "FontAwesome" } },
 ]
 
