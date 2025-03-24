@@ -1,0 +1,43 @@
+baseurl = "https://u10x.dev"
+title = "You are 10x developer  "
+canonifyurls = true
+theme = "lynx"
+languageCode = "en-US"
+copyright = "Code released under the Apache 2.0 license."
+
+uglyurls = true
+publishDir = "public"
+
+disqusShortname = "brunoozendo"
+googleAnalytics = "UA-86914466-1"
+
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[params.author]
+name = "u10x.dev"
+headline = "Where you became an 10x developer"
+#image = "/images/posts/calcular-pi.jpg"
+links = [
+    #{ link = { href = "https://github.com/jpanther/lynx/blob/stable/README.md", text = "View the readme", icon = "github" } },
+    #{ link = { href = "styles/", text = "All the link styles", target = "_self" } },
+    #{ github = "https://github.com/brunorozendo" },
+    { link =  { href = "https://blog.u10x.dev", text = "Blog" } },
+    { link =  "https://u10x.dev" },
+    { x = "https://x.com/u10xdev" },
+    { youtube = "https://www.youtube.com/@u10xdev" },
+    { tiktok = "https://www.tiktok.com/@u10xdev" },
+    { instagram = "https://www.instagram.com/u10xdev" },
+    { threads = "https://www.threads.net/@u10xdev" },
+    { bluesky =  "https://bsky.app/profile/u10xdev.bsky.social" },
+    #{ font-awesome = { href = "https://fontawesome.com/", text = "FontAwesome" } },
+]
+
+
+[markup.highlight]
+noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
