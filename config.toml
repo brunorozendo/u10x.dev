@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "/"
 title = "You are 10x developer  "
 canonifyurls = true
 theme = "lynx"
